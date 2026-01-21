@@ -7,4 +7,3 @@ here's another change
 buffy, willow, xander, giles
 
 change for commit 1
-change for commit 2
